@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "堕天 - Daten",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-07T10:30:50.751480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "堕天",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_堕天_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "堕天",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_堕天_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - 堕天(DATEN)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_【MV】Creepy_Nuts_-_堕天(DATEN)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "堕天 - Daten",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_堕天_-_Daten_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "堕天",
+      "artist": "the HIATUS",
+      "has_synced": true,
+      "path": "select/05_堕天_the_HIATUS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daten [堕天]",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_Daten_[堕天]_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "堕天",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/07_堕天_Ave_Mujica.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "堕天 (Instrumental)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/08_堕天_(Instrumental)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "堕天 (Paused)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/09_堕天_(Paused)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "堕天",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_堕天_CreepyNuts.txt"
+    }
+  ]
+}
